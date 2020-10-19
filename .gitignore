@@ -55,3 +55,9 @@ dkms.conf
 .idea/
 .idea/*
 cmake-build-debug/
+
+examples/
+bazel-AlgorithmC
+bazel-bin
+bazel-out
+bazel-testlogs
